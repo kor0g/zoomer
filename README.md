@@ -1,2 +1,0 @@
-# zoomer
-Created with CodeSandbox
